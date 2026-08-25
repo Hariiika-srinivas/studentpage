@@ -1,0 +1,6 @@
+{
+  "name": "CampusGo Ballari",
+  "description": "Smart college bus tracking, live ETA, and commute guidance platform for Ballari campus.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
